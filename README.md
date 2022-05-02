@@ -1,2 +1,2 @@
-# VirtualClock-VirtualChronometer
-This is a Virtual Clock and a Virtual Chronometer, 2x1
+# VirtualClock & VirtualChronometer
+This is a Virtual Clock and a Virtual Chronometer, 2x1. This Project its made in JavaScript, HTML and CSS, this project is a lot of fun for newbies like me as you learn a lot of new parameters doing it like "Date.now()".  I hope it helps you and any suggestion is always accepted. My gmail is: adriiglesias2016@gmail.com, My discord is: igle.exe#8778 and my Twitter is @igleepuntoexe
